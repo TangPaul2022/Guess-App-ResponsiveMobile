@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "my-app2",
-    "slug": "my-app2",
+    "name": "Guess Game App",
+    "slug": "Guess Game App",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
